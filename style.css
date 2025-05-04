@@ -1,0 +1,24 @@
+.scenery {
+    width: 200px;
+}
+.gif {
+    width: 600px;
+}
+.orpheus {
+    width: 340px;
+}
+.quote {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(5, 98, 98);
+}
+.title {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    color: rgb(239, 126, 143);
+}
+body {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: azure;
+    color: rgb(155, 155, 228);
+}
